@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SmarphoneShop</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="deskription_menu">Dapat dihidupkan: Ya Warna: coral Disertai dus: Tidak Semua bagian lengkap: Ya Kondisi fisik baterai: Normal Kondisi fisik handphone: Good Ada retak di layar: Tidak Kondisi layar: Normal Sensor: Berfungsi normal Touchscreen: Berfungsi normal Internet (wifi): Berfungsi normal Panggilan keluar: Berfungsi normal Tombol volume up: Berfungsi normal Tombol volume down: Berfungsi normal Speaker: Berfungsi normal Dapat menerima panggilan: Berfungsi normal Mengisi daya: Berfungsi normal Audio jack: Berfungsi normal Nama Penjual: Anniska Dwi Fitrianti</string>
+    <string name="ingredients">Layar dan fungsi tidak bermasalah, jika ada lecet tidak lebih dari 2 titik</string>
+    <string name="Resep">Layar dan fungsi tidak bermasalah, jika ada lecet tidak lebih dari 2 titik</string>
+    <string name="price">PRICE</string>
+    <string name="Harga">Rp 12.805.000</string>
+    <string-array name="phone">
+        <item>Samsung Flip</item>
+        <item>Samsung S series</item>
+        <item>Iphone 13</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.9</item>
+        <item>4.9</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Spesifikasi Samsung Galaxy Z Flip di Indonesia · Rilis: 11 Februari 2020 · Chipset: Qualcomm SM8150 Snapdragon 855+ (7 nm) · RAM: 8GB RAM · Memori internal: 256 GB</item>
+        <item>HP Samsung Galaxy S dengan harga terjangkau. Pilih tipe dan spesifikasi Samsung S Series yang tepat untuk Anda</item>
+        <item>iPhone 13 - Spesifikasi Teknis ; Sistem kamera ganda 12 MP: Kamera Utama dan Ultra Wide; Utama: bukaan ƒ/1.6; Ultra Wide: bukaan ƒ/2.4 dan bidang pandang 120</item>
+    </string-array>
+</resources>
